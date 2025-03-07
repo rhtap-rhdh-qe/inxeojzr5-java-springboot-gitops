@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: inxeojzr5-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/inxeojzr5-java-springboot-gitops
